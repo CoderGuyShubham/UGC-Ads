@@ -16,7 +16,7 @@
     "@clerk/express": "^1.7.65",
     "@google/genai": "^1.38.0",
     "@prisma/adapter-pg": "^7.3.0",
-    "@prisma/client": "^7.3.0",
+    "@prisma/client": "^7.6.0",
     "axios": "^1.13.4",
     "cloudinary": "^2.9.0",
     "cors": "^2.8.6",
@@ -32,7 +32,7 @@
     "@types/node": "^25.0.10",
     "@types/pg": "^8.16.0",
     "nodemon": "^3.1.11",
-    "prisma": "^7.3.0",
+    "prisma": "^7.6.0",
     "ts-node": "^10.9.2",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
